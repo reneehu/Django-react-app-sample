@@ -1,33 +1,26 @@
 {
-  "name": "django-react-app",
+  "name": "django-webpack-loader-sample",
   "version": "1.0.0",
-  "description": "just a quick tutorial",
+  "description": "just a quick tutrial",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reneehu/Django-react-app-sample-.git"
   },
-  "keywords": [
-    "sample"
-  ],
-  "author": "Renee Hu",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reneehu/Django-react-app-sample-/issues"
   },
   "homepage": "https://github.com/reneehu/Django-react-app-sample-#readme",
   "devDependencies": {
-    "babel-core": "^6.22.1",
+    "babel": "^6.5.2",
     "babel-loader": "^6.2.10",
-    "babel-preset-es2015": "^6.22.0",
-    "babel-preset-react": "^6.22.0",
-    "jquery": "^3.1.1",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "webpack": "^1.14.0",
+    "webpack": "^2.2.1",
     "webpack-bundle-tracker": "^0.2.0"
   }
 }
